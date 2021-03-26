@@ -14,3 +14,4 @@
 4.文件HouseFundationIndex是音频文件和foundation元素名的映射，方便你对音频增删改查，全部基本功的参考视频：https://www.youtube.com/watch?v=eHzyK-2HVpM。
 
 最后，享受街舞带来的快乐，keep on dancing!(我设置的while(1),你不坚持也不行啊哈哈哈哈)
+111
